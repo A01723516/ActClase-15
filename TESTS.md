@@ -30,5 +30,5 @@ sudo -H pip3 install pytest
 - ## 10 Alterna Caracteres
     ### Run command
     ```
-    pytest assignments/10AlternaCaracteres
+    pytest assignments/10.1AlternaCaracteres
     ```
