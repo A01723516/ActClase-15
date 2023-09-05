@@ -33,8 +33,7 @@ La salida del programa debe de ser exactamente de la siguiente forma:
 
 Ejemplo de ejecución del programa:
 
-Entrada:
-7
+ingresa un numero:7
 
 Salida:
 ```
